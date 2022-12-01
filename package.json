@@ -1,0 +1,14 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "nada stitou",
+  "license": "ISC"
+}
