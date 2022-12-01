@@ -10,5 +10,8 @@
     "test"
   ],
   "author": "nada stitou",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "solicode-ascii": "^1.0.0"
+  }
 }
